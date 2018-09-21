@@ -1,0 +1,12 @@
+
+-  raw:
+    name: _raw
+    path: CSHL_data/
+    
+-  normalized:
+    name: _ntbNormalized
+    path: CSHL_data_processed/ntb_normalized/
+
+-  mask:
+    name: _mask
+    path: CSHL_data_processed/masks/
